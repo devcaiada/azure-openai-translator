@@ -4,6 +4,8 @@ Criando um serviço de tradução no Microsoft Azure e usando a API para traduzi
 
 ## Criando o Serviço de Tradução no Azure
 
+![translator](https://github.com/devcaiada/azure-openai-translator/blob/main/assets/translator-azure.png?raw=true)
+
 ### 1. Acesse o Portal do Azure:
 
 - Acesse o [Portal do Azure](https://login.microsoftonline.com/organizations/oauth2/v2.0/authorize?redirect_uri=https%3A%2F%2Fportal.azure.com%2Fsignin%2Findex%2F&response_type=code%20id_token&scope=https%3A%2F%2Fmanagement.core.windows.net%2F%2Fuser_impersonation%20openid%20email%20profile&state=OpenIdConnect.AuthenticationProperties%3D_ZvB7Dex0LoCtOMBba3b5EF55VoYbA__Jg14bZc9FWRyn-cGqCP22hTKOhDR37rVgBz9ZJpV1P3sxnuJiQVbP8fg9BjJFW9MsecrjOu3OM2yikbEUFG9XKIwFP76Cu_WlTPsB3wdSbm1Ocots4bfsDMTtZO-Zdm1BSj-7Wz1ibjZUemvQSaymb0a5Bft6hXqKLq1auG_poiqn53x0cSW4wGEoIeT8H1EgkJjuGNfYEySVAaRukgz1ZRDpZrmcdt79ah9UH9bvcsCxhHSuqHPTR1ZnneZ64oSZCAxaAlx0XoRTU4AFAXmtyn5yau5LvvtvKXB7yjiRUTWrPRlXd3bcSUnHXQMj4b4JhMi4Wz0oz28zkB2sZaUN4uEYcN1cs6Vgku-Vsp2LA-MRcDiffxcPTGDBQrUnpjnISCuEyifZjkOr40AauFgoFvYFEK-w8_oMikGNpE9KWvZ2PahAI8euhZRqSGenEkmXs_clt7uaO0&response_mode=form_post&nonce=638659947937869079.ZmFlMmY4ZjYtNjQ5MC00NDE3LTkzNmItOTc2YmJiMGI4Nzg2Zjc5YTk1NGMtNTVmYi00NjZjLTlkYjQtZmVhNjFkMjRkNTg4&client_id=c44b4083-3bb0-49c1-b47d-974e53cbdf3c&site_id=501430&client-request-id=e7b361e0-8e67-4f94-ba8a-78b1cc5b204d&x-client-SKU=ID_NET472&x-client-ver=7.5.0.0&sso_reload=true).
